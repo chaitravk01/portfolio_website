@@ -7,7 +7,6 @@ This website serves as a showcase of my skills, projects, and experience as a fr
 ## Technologies Used:
 - HTML
 - CSS
-- JavaScript
 
 ## Features:
 - Responsive design
